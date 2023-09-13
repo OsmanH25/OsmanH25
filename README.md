@@ -1,4 +1,4 @@
-![Alt text](https://i.pinimg.com/564x/19/d5/a5/19d5a5da894466af62837c71703b8d21.jpg?max-width=500)
+![Alt text](https://i.pinimg.com/564x/36/9a/0a/369a0a8bcbe9a5d7c64487385f45db14.jpg?max-width=500)
 # 💻🧉
 <br>¡Hola a todos!<br><br>Mi nombre es Osman Herrera y soy un programador junior en formación. Estoy cursando la tecnicatura universitaria en programación en la UTN regional San Rafael, Mendoza.<br><br>Me apasiona la programación y siempre estoy buscando nuevos desafíos. <br><br>Soy una persona creativa y siempre estoy buscando nuevas formas de resolver problemas. Me gusta trabajar en equipo y ayudar a los demás.<br><br>Creo que es importante compartir el conocimiento y aprender de los demás.<br><br> Espero poder seguir aprendiendo y creciendo en esta industria.<br><br>Si tienes alguna pregunta o comentario, no dudes en contactarme.<br><br>¡Saludos desde Argentina!🧉🇦🇷<br>OSMAN HERRERA 
 
