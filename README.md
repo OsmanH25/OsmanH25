@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGJ2ZjZwbGxsbWo3MzJnaDJod2pmejNxNGtpdGRjczJ4ZHU0bDhwNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UoLUW7AdDXXviA1RVc/giphy.gif" width="500"
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGJ2ZjZwbGxsbWo3MzJnaDJod2pmejNxNGtpdGRjczJ4ZHU0bDhwNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UoLUW7AdDXXviA1RVc/giphy.gif" width="400"
 </div>
 
 <br>¡Hola a todos! 💻🧉<br><br>Mi nombre es Osman Herrera y soy un programador junior en formación. Estoy cursando la tecnicatura universitaria en programación en la UTN regional San Rafael, Mendoza.<br><br>Me apasiona la programación y siempre estoy buscando nuevos desafíos. <br><br>Soy una persona creativa y siempre estoy buscando nuevas formas de resolver problemas. Me gusta trabajar en equipo y ayudar a los demás.<br><br>Creo que es importante compartir el conocimiento y aprender de los demás.<br><br> Espero poder seguir aprendiendo y creciendo en esta industria.<br><br>Si tienes alguna pregunta o comentario, no dudes en contactarme.<br><br>¡Saludos desde Argentina!🧉🇦🇷<br>OSMAN HERRERA 
