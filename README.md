@@ -4,9 +4,12 @@
   <h3 align="center"> Mi nombre es Osman Herrera y soy un programador junior en formación. Estoy cursando la tecnicatura universitaria en programación en la UTN regional San Rafael, Mendoza.</h3>
   <h4 align="center">Me apasiona la programación y siempre estoy buscando nuevos desafíos. Soy una persona creativa y siempre estoy buscando nuevas formas de resolver problemas. Me gusta trabajar en equipo y ayudar a los demás.</h4> 
    <h3>Espero poder seguir aprendiendo y creciendo en esta industria. Si tienes alguna pregunta o comentario, no dudes en contactarme. ¡Saludos desde Argentina!🧉🇦🇷
-   OSMAN HERRERA 
    </h3>
 </div>
+<div align="center">
+  <h3> OSMAN HERRERA</h3>
+</div>
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/osman25.) ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)
